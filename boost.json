@@ -1,0 +1,323 @@
+[
+		{
+            "phrases": ["පිටකොටුව"],
+             "boost": 100
+        },
+        {
+            "phrases": ["පිට"],
+            "boost": 100
+        },
+        {
+            "phrases": ["කෝච්චිය"],
+            "boost": 15
+        },
+        {
+			"phrases": ["පැ"],
+			"boost": 100
+        }, 
+        {
+			"phrases": ["පැන්සල"],
+			"boost": 15
+        }, 
+        {
+            "phrases": ["මුහුද"],
+            "boost": 50
+        }, 
+        {
+            "phrases": ["පිටකොටුව"],
+            "boost": 50
+        },
+        {
+            "phrases": ["සමනලයා"],
+            "boost": 75
+        },
+        {
+            "phrases": ["ද"],
+            "boost": 75
+        },
+        {
+            "phrases": ["මුහුද"],
+            "boost": 75
+        },
+        {
+            "phrases": ["මු"],
+            "boost": 75
+        },
+		{
+            "phrases": ["හුද"],
+            "boost": 75
+        },
+        {
+            "phrases": ["බල්ලා"],
+            "boost": 75
+        },
+        {
+            "phrases": ["බ"],
+            "boost": 75
+        },
+        {
+            "phrases": ["ල්ලා"],
+            "boost": 400
+        },
+        {
+            "phrases": ["සම"],
+            "boost": 75                   
+        },
+        {
+            "phrases": ["ස"],
+            "boost": 75                   
+        },
+        {
+            "phrases": ["අ"],
+            "boost": 75                   
+        },
+        {
+            "phrases": ["අම්මා"],
+            "boost": 75                   
+        },
+        {
+            "phrases": ["බෝතලය"],
+            "boost": 75                   
+        },
+        {
+            "phrases": ["බෝ"],
+            "boost": 100                   
+        },
+        {
+            "phrases": ["තලය"],
+            "boost": 275                   
+        },
+		{
+            "phrases": ["අම්මා"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["අලියා"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["අ"],
+            "boost": 175                   
+        },
+    {
+            "phrases": ["ලියා"],
+            "boost": 275                   
+        },
+		{
+            "phrases": ["කුරුල්ලා"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["කු"],
+            "boost": 275                   
+        },
+    {
+            "phrases": ["රුල්ලා"],
+            "boost": 375                   
+        },
+		{
+            "phrases": ["වඳුරා"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["සිංහයා"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["සි"],
+            "boost": 175                   
+        },
+		{
+            "phrases": ["හාවා"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["මුවා"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["හරකා"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["බල්ලා"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["බ"],
+            "boost": 170                  
+        },
+		{
+            "phrases": ["ල්ලා"],
+            "boost": 475                   
+        },
+		{
+            "phrases": ["ගෙම්බා"],
+            "boost": 100                  
+        },
+    {
+            "phrases": ["ගෙ"],
+            "boost": 150                  
+        },
+		{
+            "phrases": ["මල"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["ගස"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["දේදුන්න"],
+            "boost": 100                  
+        },
+    {
+            "phrases": ["දේ"],
+            "boost": 175                  
+        },
+    {
+            "phrases": ["දුන්න"],
+            "boost": 275                  
+        },
+		{
+            "phrases": ["අහස"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["ලේනා"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["අඹ"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["අලිගැටපේර"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["අලි"],
+            "boost": 175                   
+        },
+		{
+            "phrases": ["ගැටපේර"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["මිදි"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["කෙසෙල්"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["කෙ"],
+            "boost": 175                   
+        },
+		{
+            "phrases": ["ඇපල්"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["ඇ"],
+            "boost": 175                   
+        },
+		{
+            "phrases": ["කොමඩු"],
+            "boost": 275                   
+        },
+		{
+            "phrases": ["පැණි"],
+            "boost": 175                   
+        },
+		{
+            "phrases": ["අන්නාසි"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["දොඩම්"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["දො"],
+            "boost": 175                   
+        },
+		{
+            "phrases": ["ස්ට්රෝබෙරි"],
+            "boost": 75                   
+        },
+		{
+            "phrases": ["ස්ට්රෝ"],
+            "boost": 450                  
+        },
+		{
+            "phrases": ["බෙරි"],
+            "boost": 275                   
+        },
+		{
+            "phrases": ["පැපොල්"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["පැ"],
+            "boost": 175                   
+        },
+    {
+            "phrases": ["සහෝදරයෝ"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["සහෝ"],
+            "boost": 175                   
+        },
+    {
+            "phrases": ["දරයෝ"],
+            "boost": 175                   
+        },
+    {
+            "phrases": ["මුවන්"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["මු"],
+            "boost": 175                   
+        },
+    {
+            "phrases": ["වන්"],
+            "boost": 275                   
+        },
+    {
+            "phrases": ["මුවකු"],
+            "boost": 75                   
+        },
+    {
+            "phrases": ["වකු"],
+            "boost": 275                   
+        },
+    {
+            "phrases": ["ඔව්"],
+            "boost": 100                  
+        },
+    {
+            "phrases": ["මම"],
+            "boost": 100                  
+        },
+    {
+            "phrases": ["ලෑස්ති"],
+            "boost": 100                  
+        },
+    {
+            "phrases": ["හරි"],
+            "boost": 100                  
+        },
+    {
+            "phrases": ["පටන්"],
+            "boost": 100                  
+        },       
+        {
+            "phrases": ["ගමු"],
+            "boost": 100                  
+        }
+
+]
